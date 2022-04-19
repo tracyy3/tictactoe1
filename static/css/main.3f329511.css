@@ -1,0 +1,2 @@
+body{font:19px sans-serif;margin:30px}.square{background:#fff;border:1px solid #999;float:left;font-size:24px;font-weight:700;height:34px;line-height:34px;margin-right:-1px;margin-top:-1px;padding:0;text-align:center;width:34px}.board-row:after{clear:both;content:"";display:table}.status{margin-bottom:20px}.game{display:flex;flex-direction:row}.game-info{margin-left:20px}.square:focus{outline:none}.kbd-navigation .square:focus{background:#f5f5f5}ol,ul{padding-left:30px}
+/*# sourceMappingURL=main.3f329511.css.map*/

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tyang03/tictactoe.git/static/css/main.3f329511.css",
+    "main.js": "/tyang03/tictactoe.git/static/js/main.bc13e26f.js",
+    "index.html": "/tyang03/tictactoe.git/index.html",
+    "main.3f329511.css.map": "/tyang03/tictactoe.git/static/css/main.3f329511.css.map",
+    "main.bc13e26f.js.map": "/tyang03/tictactoe.git/static/js/main.bc13e26f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f329511.css",
+    "static/js/main.bc13e26f.js"
+  ]
+}
